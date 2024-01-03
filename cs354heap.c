@@ -2,17 +2,7 @@
 // Main File:        cs354heap.c
 // This File:        cs354heap.c
 // Other Files:      files in tests folder, cs354heap.h, Makefile
-// Semester:         CS 354 Spring 2023
-// Instructor:       Mark M
-//
-// Author:           Vahin Modalla
-// Email:            modalla@wisc.edu
-// CS Login:         vahin
-// GG#:              (your Canvas GG number)
-//                   (See https://canvas.wisc.edu/groups for your GG number)
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                N/A
+
 ///////////////////////////////////////////////////////////////////////////////
 
 
@@ -38,11 +28,6 @@ int main() {
 
 }
 
-///////////////////////////////////////////////////////////////////////////////
-// Define some useful constants and types
-//
-// You are free to change these definitions as you wish or add others.
-///////////////////////////////////////////////////////////////////////////////
 
 /*
  * The minimum size in bytes for the payload of a block. This is determined by
