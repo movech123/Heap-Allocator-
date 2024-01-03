@@ -1,1 +1,1 @@
-# Heap-Allocator-
+The Dynamic Memory Allocator program, developed in the C programming language, aims to provide efficient memory allocation and management, similar to the malloc() and free() functions. It employs the best-fit policy algorithm to optimize memory allocation as per user requests. 
